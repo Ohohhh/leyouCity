@@ -11,7 +11,7 @@ spring:
     host: 39.106.141.135
     virtual-host: /leyou
     username: leyou
-    password: lq299199
+    password: ******
   jackson:
     default-property-inclusion: non_null  # 过滤为null的响应结果
 eureka:
